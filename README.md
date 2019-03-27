@@ -24,6 +24,8 @@
 *	Anschlussklemme, 4-pol, Ø 2 mm, RM 5,08			1x
 * V2	KSD-01F Temperaturschalter 60°C  NC +Befestigung	1x
 
+Abmaße 40*95mm
+
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
 [Software](https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Dim1PWM-CV)
