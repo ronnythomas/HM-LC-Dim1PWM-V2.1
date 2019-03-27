@@ -1,5 +1,5 @@
 ﻿# HM-LC-Dim1PWM 12V-24V V2.1
-## 1 Fach Dimmer 12V-24V, 5A
+## 1 Fach Dimmer 12V-24V, 5A incl. Temperatursicherung und DC/DC Wandler
 
 ## benötigte Hardware
 * S1	Kleinstsicherung kurz träge 5A RM5,08			1x
