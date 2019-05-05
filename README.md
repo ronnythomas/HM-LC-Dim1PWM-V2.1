@@ -41,4 +41,4 @@ Gehäuse (Danke an Patrick)
 
 [Gehäuse](https://github.com/ronnythomas/HM-LC-Dim1PWM-V2.1/tree/master/Geh%C3%A4use)
 ![complete](Gehäuse/DSCF8094.jpg)
-![complete](Gehäuse/DSCF8094.jpg)
+![complete](Gehäuse/DSCF8095.jpg)
