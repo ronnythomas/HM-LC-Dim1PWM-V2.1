@@ -36,6 +36,7 @@ Bilder
 ![complete](Images/1.jpg)
 ![complete](Images/2.jpg)
 ![complete](Images/3.jpg)
+![complete](Images/4.jpg)
 
 Gehäuse (Danke an Patrick)
 
